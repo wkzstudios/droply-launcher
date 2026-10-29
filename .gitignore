@@ -1,0 +1,5 @@
+# Este repositório hospeda SÓ as atualizações (Releases). Nada além do README entra aqui.
+# Se você colar o projeto inteiro por engano, "git add ." não envia nada.
+*
+!README.md
+!.gitignore
