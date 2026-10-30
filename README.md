@@ -1,3 +1,19 @@
+![Droply Launcher](assets/banner-droply.png)
+
+# 🚀 Droply Launcher
+
+**Baixe, converta e organize seus conteúdos em um só lugar!**
+
+O Droply Launcher oferece ferramentas para download de vídeos e músicas, conversão de formatos, extração de áudio e edição de vídeos, tudo em uma interface moderna e intuitiva.
+
+### Principais recursos
+
+- 📥 Download de vídeos e músicas.
+- 🔄 Conversão para MP3, WAV e MP4.
+- 🎵 Extração de áudio.
+- 🎬 Edição de vídeos.
+- 🔄 Atualizações e melhorias do aplicativo.
+
 # Droply Launcher — atualizações
 
 Este repositório é usado **somente** para distribuir as atualizações do Droply Launcher.
